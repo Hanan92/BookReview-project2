@@ -7,7 +7,10 @@ Create a Book Review application using Ruby on Rails and Postgresql.
 
 # Screenshots:
 * wireframe design 
+ Home page
 ![image](https://user-images.githubusercontent.com/51181618/61852093-46b99780-aec1-11e9-8016-1b9ea782e479.png)
+ book page
+<img width="1201" alt="Screen Shot 2019-07-25 at 2 07 14 AM" src="https://user-images.githubusercontent.com/51181618/61852159-723c8200-aec1-11e9-8e48-b2e7bc733490.png">
 * End design
 
 # Technologies Used:
